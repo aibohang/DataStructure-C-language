@@ -1,0 +1,4 @@
+﻿  shiyan3.2.c
+d:\c.c++practice\shujujiegoushiyan\shiyan3.2.c(61): warning C4715: “SearchMid”: 不是所有的控件路径都返回值
+d:\c.c++practice\shujujiegoushiyan\shiyan3.2.c(95): warning C4715: “SearchMid2”: 不是所有的控件路径都返回值
+  shujujiegoushiyan.vcxproj -> D:\c.c++practice\shujujiegoushiyan\Debug\shujujiegoushiyan.exe
